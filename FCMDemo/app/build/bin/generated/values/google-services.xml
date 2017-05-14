@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_storage_bucket" translatable="false">fcmdemo-56ed4.appspot.com</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNTPdMcET5VAzFJfORPCSGMARvakkzqrM</string>
+    <string name="gcm_defaultSenderId" translatable="false">94835352857</string>
+    <string name="google_app_id" translatable="false">1:94835352857:android:f734682468208714</string>
+    <string name="default_web_client_id" translatable="false">94835352857-h86311tmcfm0lcdce7g6gfp1oj7qnk59.apps.googleusercontent.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyDNTPdMcET5VAzFJfORPCSGMARvakkzqrM</string>
+    <string name="firebase_database_url" translatable="false">https://fcmdemo-56ed4.firebaseio.com</string>
+</resources>

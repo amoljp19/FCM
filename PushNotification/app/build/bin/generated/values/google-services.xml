@@ -1,0 +1,9 @@
+<resources>
+    <string name="google_storage_bucket" translatable="false">pushnotificationdemo-86e40.appspot.com</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAIUEy1UXuRe26pffCRzPcu4VJ4Mw5a_nE</string>
+    <string name="gcm_defaultSenderId" translatable="false">387273826654</string>
+    <string name="google_app_id" translatable="false">1:387273826654:android:c49402c238f0bc35</string>
+    <string name="default_web_client_id" translatable="false">387273826654-8b1lijf8q9qvv7n6agmnojd0g780ikla.apps.googleusercontent.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyAIUEy1UXuRe26pffCRzPcu4VJ4Mw5a_nE</string>
+    <string name="firebase_database_url" translatable="false">https://pushnotificationdemo-86e40.firebaseio.com</string>
+</resources>
